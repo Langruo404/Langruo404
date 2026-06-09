@@ -51,7 +51,7 @@ Keywords: YOLO, Computer Vision, Bridge Inspection, Defect Detection, Quantifica
 
 Keywords: TypeScript, Node.js, Telegram Bot, SQLite, Local LLM, Structured Memory, FTS, Embedding, RAG, Prompt Assembly.
 
-### Personal AI Workspace & Knowledge Base
+### [AI Workspace & Knowledge Base System](https://github.com/Langruo404/ai-workspace-knowledge-base-system)
 
 围绕个人 AI 工作台与长期记忆系统，实践基于 FTS、Embedding 与结构化记忆的知识检索方案，探索如何在本地项目、对话摘要、长期事实与专业资料之间建立可追溯、可检索、可维护的上下文层。
 
