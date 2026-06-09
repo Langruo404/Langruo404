@@ -65,19 +65,19 @@ Keywords: TypeScript, Node.js, Telegram Bot, SQLite, Local LLM, Structured Memor
 
 Keywords: RAG, Knowledge Base, FTS, Embedding, SQLite, MCP, Structured Memory, Retrieval.
 
-### ESP32-P4 Smart Display Terminal
+### [ESP32-P4 Edge Display Terminal](https://github.com/Langruo404/esp32-p4-edge-display-terminal)
 
-基于 ESP32-P4 与 7 英寸触摸屏开发板，探索中文 UI、LVGL 显示、触摸输入、字体子集与边缘显示终端能力。项目目标是验证 AI Agent 与本地硬件终端之间的交互路径，为后续“模型输出 → 本地服务 → 硬件显示”的实验闭环提供基础。
+基于 ESP32-P4、ESP-IDF 与 LVGL 的 7 英寸触控边缘显示终端原型。项目已完成 MIPI-DSI 屏幕、GT911 触摸、中文 UI、字体子集、TF 存储与 RJ45 Ethernet DHCP bring-up，后续方向是探索本地服务 / Agent 控制显示内容。
 
 项目关注点包括：
 
-* ESP-IDF 开发环境搭建与硬件资料阅读
-* 7 英寸触摸屏显示与 GT911 触摸输入验证
-* LVGL 中文 UI、字体子集与状态页原型
-* TF 卡、摄像头、网络链路等硬件能力探索
-* 本地 AI 服务与边缘显示终端之间的交互设计
+- ESP32-P4 板级适配与 ESP-IDF 项目环境搭建
+- 1024×600 MIPI-DSI 显示、JD9165 面板与 GT911 触摸验证
+- LVGL 9 中文状态页、触摸交互、动画、息屏与唤醒
+- 中文字体子集与 RGB565 图片资源流程
+- SDMMC / TF 卡读写验证与 IP101 RMII Ethernet DHCP bring-up
 
-Keywords: ESP32-P4, ESP-IDF, LVGL, Touch Display, Chinese Font, Embedded UI, Edge Device.
+Keywords: ESP32-P4, ESP-IDF, LVGL, MIPI-DSI, GT911, SDMMC, Ethernet, Embedded UI, Edge Device.
 
 ## Direction
 
