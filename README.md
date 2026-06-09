@@ -37,7 +37,7 @@ My current focus is on system boundaries, maintainable architecture, context eng
 
 Keywords: YOLO, Computer Vision, Bridge Inspection, Defect Detection, Quantification, Engineering AI, Requirement Analysis.
 
-### Local LLM Telegram Bot Memory System
+### [Local LLM Telegram Bot Memory System](https://github.com/Langruo404/local-llm-telegram-memory-system)
 
 围绕本地 LLM Telegram Bot，设计并实现对话上下文、运行摘要、结构化记忆与检索结果的装配方案，用于探索小模型在长对话场景下的连续性与上下文预算问题。
 
